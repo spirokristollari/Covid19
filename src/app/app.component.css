@@ -1,0 +1,8 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cont {
+    text-align: center;
+    display: grid;
+    justify-content: center;
+}
